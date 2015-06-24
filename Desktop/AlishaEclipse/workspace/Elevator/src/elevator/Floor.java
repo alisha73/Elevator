@@ -1,9 +1,9 @@
 package elevator;
 
 public class Floor {
-int flno;
-Floor(int flno){
-	this.flno=flno;
-	
-}
+	int floor_no;
+	Floor(int floor_no)
+	{
+		this.floor_no=floor_no;
+	}
 }
